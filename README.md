@@ -1,2 +1,2 @@
-# poryecto-sisco
+# proyecto-sisco
 proyecto de sisco, logistica.
